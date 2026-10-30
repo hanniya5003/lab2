@@ -1,2 +1,3 @@
 personal portfolio 
-used tools webstorm
+used tools webstorm and used edge browser
+
