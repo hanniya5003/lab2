@@ -19,14 +19,14 @@ Organized and readable page structure.
 
 Technologies Used
 
-HTML5
+webstorm
+edge browser
 
 
 
 Purpose
 
 The purpose of this project is to strengthen my understanding of HTML and practice building structured web pages while developing practical front-end development skills.
-
-name:hanan fedlu ,id :ets 0696/17
-
+Author:
 Hanan Fedlu
+id Ets 0696/17
